@@ -4,7 +4,7 @@
 
 [The figma plugin](https://www.figma.com/c/plugin/752722100360691103) can add [iconfont](https://www.iconfont.cn) onto your designs seamlessly
 
-![](https://github.com/cnych/figma-iconfont-plugin/blob/master/assets/banner.png)
+[![](https://github.com/cnych/figma-iconfont-plugin/blob/master/assets/banner.png)](https://www.figma.com/c/plugin/752722100360691103)
 
 
 
