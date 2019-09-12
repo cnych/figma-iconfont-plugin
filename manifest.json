@@ -1,0 +1,7 @@
+{
+  "name": "iconfont",
+  "id": "752722100360691103",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
