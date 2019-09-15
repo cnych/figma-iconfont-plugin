@@ -1,5 +1,4 @@
 import './ui.css';
-import _ from "lodash";
 import $ from "jquery";
 
 let emojiUnicodeList = [];
